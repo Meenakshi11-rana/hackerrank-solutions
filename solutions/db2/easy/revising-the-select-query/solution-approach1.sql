@@ -6,7 +6,7 @@
 -- Platform    HackerRank
 -- Language    db2
 -- Status      Accepted
--- Submitted   2026-09-29, 10:20 a.m.
+-- Submitted   2026-09-29, 10:21 a.m.
 -- ──────────────────────────────────────────────────
 
 
